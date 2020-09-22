@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "821349660492",
+    "firebase_url": "https://cipher-caesar.firebaseio.com",
+    "project_id": "cipher-caesar",
+    "storage_bucket": "cipher-caesar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821349660492:android:3a745449bf5962dee6c1e9",
+        "android_client_info": {
+          "package_name": "com.aniskhenissa.ciphercaesar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821349660492-o6kbbidjbm2a6nt4fk10bpsggj2kgecn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aniskhenissa.ciphercaesar",
+            "certificate_hash": "6190dc6374be5a936c6997ea84502ce0f1d62e45"
+          }
+        },
+        {
+          "client_id": "821349660492-novvhuiup631ve9ap48n4ub36upb415k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsl99rireRDfdYGNfHIwuLDPLbNkn8N-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821349660492-novvhuiup631ve9ap48n4ub36upb415k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
